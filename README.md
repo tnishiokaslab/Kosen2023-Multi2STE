@@ -9,11 +9,11 @@
 > 使用していた動画像データは肖像権の都合により、非公開または一部削除されています。
 <p align="center">
   <div style="display: inline-block; text-align: center; margin-right: 20px;">
-    <img src="img/yolov7.png" alt="人物検出 (Yolov7)" width="200"><br>
+    <img src="img/yolov7.png" alt="人物検出 (Yolov7)" width="170"><br>
     <span><strong>人物検出 (Yolov7)</strong></span>
   </div>
   <div style="display: inline-block; text-align: center;">
-    <img src="img/STE.png" alt="姿勢推定 (Strided Transformer)" width="250"><br>
+    <img src="img/STE.png" alt="姿勢推定 (Strided Transformer)" width="200"><br>
     <span><strong>姿勢推定 (Strided Transformer)</strong></span>
   </div>
 </p>
